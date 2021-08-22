@@ -7,7 +7,7 @@
 <title>どこつぶ</title>
 </head>
 <body>
-	<h1>どこつぶへようこそ</h1>
+	<h1>どこつぶへようこそ（正式版）</h1>
 
 	<form action="/docoTsubu/Login" method="post">
 	ユーザ名：<input type="text" name="name"><br>
