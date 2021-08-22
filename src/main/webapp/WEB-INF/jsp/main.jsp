@@ -9,7 +9,7 @@ List<Mutter> mutterList = (List<Mutter>) application.getAttribute("mutterList");
 <html>
 <head>
 <meta charset="UTF-8">
-<title>どこつぶ（投稿・閲覧※）</title>
+<title>どこつぶ（投稿・閲覧）※サーバ起動中有効</title>
 </head>
 <body>
 	<h1>どこつぶメイン</h1>
