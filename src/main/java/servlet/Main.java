@@ -30,6 +30,8 @@ public class Main extends HttpServlet implements Servlet {
 	 */
 	public Main() {
 		super();
+		//コメント１同じファイルの別のトロころを複数人が修正してどうなるか確認
+		System.out.println("コンストラクタ");
 	}
 
 	/**
