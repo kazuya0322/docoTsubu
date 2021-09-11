@@ -92,8 +92,12 @@ public class Main extends HttpServlet implements Servlet {
 		//コメント２同じファイルの別のトロころを複数人が修正してどうなるか確認（GitHubから修正）
 		System.out.println("doPost!!!!");
 
+
 		RequestDispatcher dispatcher = request.getRequestDispatcher("/WEB-INF/jsp/main.jsp");
 		dispatcher.forward(request, response);
+
+		System.out.println("doPostdoPost");
+
 	}
 
 }
